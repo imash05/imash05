@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/vLbSqsN)](https://rroll.to/iHgSMg)
+[![MasterHead](https://i.ibb.co/WBQL5Dr/Screenshot-2023-05-27-222139.png)](https://rroll.to/iHgSMg)
 <h1 align="center">Hi 👋, I'm Imash</h1>
 <h3 align="center">A passionate frontend/backend developer</h3>
 
