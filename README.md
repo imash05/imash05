@@ -1,5 +1,8 @@
+[![MasterHead](https://ibb.co/vLbSqsN...)](rroll.to/iHgSMg)
 <h1 align="center">Hi 👋, I'm Imash</h1>
 <h3 align="center">A passionate frontend/backend developer</h3>
+
+<img align="right" alt="coding-cat" width="450" src="https://i.giphy.com/media/2wW4ESTnavhypLsb4l/giphy.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imash05&label=Profile%20views&color=0e75b6&style=flat" alt="imash05" /> </p>
 
