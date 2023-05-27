@@ -1,13 +1,23 @@
 [![MasterHead](https://i.ibb.co/WBQL5Dr/Screenshot-2023-05-27-222139.png)](https://rroll.to/iHgSMg)
 <h1 align="center">Hi 👋, I'm Imash</h1>
 <h3 align="center">A passionate frontend/backend developer</h3>
-
 <img align="right" alt="coding-cat" width="450" src="https://i.giphy.com/media/2wW4ESTnavhypLsb4l/giphy.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imash05&label=Profile%20views&color=0e75b6&style=flat" alt="imash05" /> </p>
 
+<p align="left"> <a href="https://twitter.com/_imash05" target="blank"><img src="https://img.shields.io/twitter/follow/_imash05?logo=twitter&style=for-the-badge" alt="_imash05" /></a> </p>
+
+- 🔭 I’m currently working on [-----](rroll.to/iHgSMg)
+
+- 🌱 I’m currently learning **React Native, Expo**
+
+- 💬 Ask me about **--?**
+
+- ⚡ Fun fact **-----> rroll.to/iHgSMg**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/_imash05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_imash05" height="30" width="40" /></a>
 <a href="https://instagram.com/_user_3294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_user_3294" height="30" width="40" /></a>
 </p>
 
