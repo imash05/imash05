@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_imash05" target="blank"><img src="https://img.shields.io/twitter/follow/_imash05?logo=twitter&style=for-the-badge" alt="_imash05" /></a> </p>
 
-- 🔭 I’m currently working on [-----](rroll.to/iHgSMg)
+- 🔭 I’m currently working on [react-navs](https://github.com/imash05/react-navs)
 
 - 🌱 I’m currently learning **React Native, Expo**
 
