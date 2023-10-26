@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imash05&label=Profile%20views&color=0e75b6&style=flat" alt="imash05" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_imash05" target="blank"><img src="https://img.shields.io/twitter/follow/_imash05?logo=twitter&style=for-the-badge" alt="_imash05" /></a> </p>
+
 
 - 🔭 I’m currently working on [react-navs](https://github.com/imash05/react-navs)
 
