@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/WBQL5Dr/Screenshot-2023-05-27-222139.png)](https://rroll.to/iHgSMg)
+<!--[![MasterHead](https://i.ibb.co/WBQL5Dr/Screenshot-2023-05-27-222139.png)](https://rroll.to/iHgSMg)
 # 💫 About Me:
 <br>👋 Hello! I'm Imash Fernando, a passionate full-stack developer with a love for technology.<br>🚀 Currently, I'm working on an exciting personal project: a cross-platform application for both web and mobile.<br>🌱 I'm constantly learning new technologies, and at the moment, I'm diving into Dart to enhance my skills.<br>💡 I'm enthusiastic about problem-solving and crafting innovative solutions using my technical background.<br>💬 I'm open to collaborations and new challenges, so feel free to reach out!<br>
 
@@ -16,5 +16,5 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
